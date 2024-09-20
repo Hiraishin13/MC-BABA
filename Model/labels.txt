@@ -1,0 +1,14 @@
+0 Bonjour
+1 Au revoir
+2 Merci
+3 De rien
+4 S'il te plait
+5 Pardon
+6 Desole
+7 Bienvenue
+8 Ca va
+9 Oui
+10 A bientot
+11 A demain
+12 Bon appetit
+13 Bravo
