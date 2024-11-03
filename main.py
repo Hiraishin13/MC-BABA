@@ -27,7 +27,7 @@ class MainWindow(QMainWindow):
 
         # Ajout du logo
         logo_label = QLabel()
-        logo_pixmap = QPixmap("C:/Users/gadle/OneDrive/Bureau/Projet_final/Logo.png")  # Chemin vers le logo
+        logo_pixmap = QPixmap("C:/Users/gadle/OneDrive/Bureau/MC-BABA/logo.png")  # Chemin vers le logo
         logo_pixmap = logo_pixmap.scaled(300, 300, Qt.KeepAspectRatio, Qt.SmoothTransformation)  # Redimensionner le logo
         logo_label.setPixmap(logo_pixmap)
         logo_label.setAlignment(Qt.AlignCenter)
